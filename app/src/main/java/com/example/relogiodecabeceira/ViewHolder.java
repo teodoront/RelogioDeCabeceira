@@ -7,5 +7,6 @@ public class ViewHolder {
     TextView textHourMinute;
     TextView textSeconds;
     TextView textBattery;
+    TextView textNight;
 
 }
